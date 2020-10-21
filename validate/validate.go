@@ -10,9 +10,9 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ontio/wagon/exec"
-	"github.com/ontio/wagon/wasm"
-	ops "github.com/ontio/wagon/wasm/operators"
+	"github.com/ont-bizsuite/wagon/exec"
+	"github.com/ont-bizsuite/wagon/wasm"
+	ops "github.com/ont-bizsuite/wagon/wasm/operators"
 )
 
 // vibhavp: TODO: We do not verify whether blocks don't access for the parent block, do that.

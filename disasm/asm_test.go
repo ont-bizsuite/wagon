@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ontio/wagon/disasm"
-	"github.com/ontio/wagon/wasm"
+	"github.com/ont-bizsuite/wagon/disasm"
+	"github.com/ont-bizsuite/wagon/wasm"
 )
 
 var testPaths = []string{

@@ -11,8 +11,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/ontio/wagon/exec"
-	"github.com/ontio/wagon/wasm"
+	"github.com/ont-bizsuite/wagon/exec"
+	"github.com/ont-bizsuite/wagon/wasm"
 )
 
 // this file is based on github.com/perlin-network/life/spec/test_runner/runner.go

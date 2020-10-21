@@ -12,10 +12,10 @@ import (
 	"io"
 	"math"
 
-	"github.com/ontio/wagon/disasm"
-	"github.com/ontio/wagon/exec/internal/compile"
-	"github.com/ontio/wagon/wasm"
-	ops "github.com/ontio/wagon/wasm/operators"
+	"github.com/ont-bizsuite/wagon/disasm"
+	"github.com/ont-bizsuite/wagon/exec/internal/compile"
+	"github.com/ont-bizsuite/wagon/wasm"
+	ops "github.com/ont-bizsuite/wagon/wasm/operators"
 )
 
 var (

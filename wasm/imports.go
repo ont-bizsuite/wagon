@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ontio/wagon/wasm/leb128"
+	"github.com/ont-bizsuite/wagon/wasm/leb128"
 )
 
 // Import is an interface implemented by types that can be imported by a WebAssembly module.

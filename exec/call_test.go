@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ontio/wagon/wasm"
+	"github.com/ont-bizsuite/wagon/wasm"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -9,7 +9,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/ontio/wagon/exec/internal/compile"
+	"github.com/ont-bizsuite/wagon/exec/internal/compile"
 )
 
 type function interface {

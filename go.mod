@@ -1,4 +1,4 @@
-module github.com/ontio/wagon
+module github.com/ont-bizsuite/wagon
 
 go 1.13
 

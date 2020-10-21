@@ -12,8 +12,8 @@ import (
 	"io/ioutil"
 	"sort"
 
-	"github.com/ontio/wagon/wasm/internal/readpos"
-	"github.com/ontio/wagon/wasm/leb128"
+	"github.com/ont-bizsuite/wagon/wasm/internal/readpos"
+	"github.com/ont-bizsuite/wagon/wasm/leb128"
 )
 
 // Section is a generic WASM section interface.

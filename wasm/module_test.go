@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ontio/wagon/exec"
-	"github.com/ontio/wagon/wasm"
+	"github.com/ont-bizsuite/wagon/exec"
+	"github.com/ont-bizsuite/wagon/wasm"
 )
 
 var testPaths = []string{

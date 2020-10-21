@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ontio/wagon/wasm"
-	"github.com/ontio/wagon/wast"
+	"github.com/ont-bizsuite/wagon/wasm"
+	"github.com/ont-bizsuite/wagon/wast"
 )
 
 var testPaths = []string{

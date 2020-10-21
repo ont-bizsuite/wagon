@@ -11,7 +11,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/ontio/wagon/wasm/leb128"
+	"github.com/ont-bizsuite/wagon/wasm/leb128"
 )
 
 const (

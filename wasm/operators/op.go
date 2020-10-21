@@ -9,7 +9,7 @@ package operators
 import (
 	"fmt"
 
-	"github.com/ontio/wagon/wasm"
+	"github.com/ont-bizsuite/wagon/wasm"
 )
 
 var (

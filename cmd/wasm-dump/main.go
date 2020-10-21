@@ -14,9 +14,9 @@ import (
 	"os"
 	"sort"
 
-	"github.com/ontio/wagon/disasm"
-	"github.com/ontio/wagon/wasm"
-	"github.com/ontio/wagon/wasm/leb128"
+	"github.com/ont-bizsuite/wagon/disasm"
+	"github.com/ont-bizsuite/wagon/wasm"
+	"github.com/ont-bizsuite/wagon/wasm/leb128"
 )
 
 // TODO: track the number of imported funcs,memories,tables and globals to adjust

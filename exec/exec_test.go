@@ -17,9 +17,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ontio/wagon/exec"
-	"github.com/ontio/wagon/validate"
-	"github.com/ontio/wagon/wasm"
+	"github.com/ont-bizsuite/wagon/exec"
+	"github.com/ont-bizsuite/wagon/validate"
+	"github.com/ont-bizsuite/wagon/wasm"
 )
 
 const (

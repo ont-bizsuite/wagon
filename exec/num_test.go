@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ontio/wagon/wasm/operators"
+	"github.com/ont-bizsuite/wagon/wasm/operators"
 )
 
 func TestI32BinOps(t *testing.T) {

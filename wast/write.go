@@ -15,9 +15,9 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/ontio/wagon/disasm"
-	"github.com/ontio/wagon/wasm"
-	"github.com/ontio/wagon/wasm/operators"
+	"github.com/ont-bizsuite/wagon/disasm"
+	"github.com/ont-bizsuite/wagon/wasm"
+	"github.com/ont-bizsuite/wagon/wasm/operators"
 )
 
 const tab = `  `
